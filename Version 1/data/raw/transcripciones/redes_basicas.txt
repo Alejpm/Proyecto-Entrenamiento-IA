@@ -1,0 +1,9 @@
+Una dirección IP privada es una dirección utilizada dentro de una red local. 
+No es accesible desde Internet y pertenece a rangos específicos como 192.168.0.0/16, 
+10.0.0.0/8 y 172.16.0.0/12.
+
+Un switch es un dispositivo que conecta varios equipos dentro de una red local 
+y utiliza direcciones MAC para reenviar los datos al puerto correcto.
+
+Un router conecta diferentes redes y trabaja con direcciones IP.
+
