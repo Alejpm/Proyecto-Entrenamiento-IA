@@ -1,0 +1,4 @@
+{"question": "¿Qué es una dirección IP privada?", "answer": "Una dirección IP privada es una dirección utilizada dentro de una red local que no es accesible desde Internet y pertenece a rangos como 192.168.0.0/16."}
+{"question": "¿Para qué sirve un switch en una red local?", "answer": "Un switch conecta dispositivos dentro de una red local y reenvía los datos al puerto correcto usando direcciones MAC."}
+{"question": "¿Qué diferencia hay entre un router y un switch?", "answer": "Un router conecta redes diferentes y trabaja con direcciones IP, mientras que un switch conecta dispositivos dentro de la misma red usando direcciones MAC."}
+

@@ -1,0 +1,24 @@
+{"prompt": "Pregunta: ¿Qué es una dirección IP privada?\nRespuesta:", "response": "Una dirección IP privada es una dirección utilizada dentro de una red local que no es accesible directamente desde Internet. Se emplea para identificar dispositivos dentro de redes internas."}
+{"prompt": "Pregunta: ¿Qué es una dirección IP pública?\nRespuesta:", "response": "Una dirección IP pública es una dirección única asignada a un dispositivo o red que permite su identificación y acceso desde Internet."}
+{"prompt": "Pregunta: ¿Qué es una máscara de subred?\nRespuesta:", "response": "La máscara de subred determina qué parte de una dirección IP corresponde a la red y qué parte al host dentro de esa red."}
+{"prompt": "Pregunta: ¿Qué es el protocolo DHCP?\nRespuesta:", "response": "DHCP es un protocolo que asigna automáticamente direcciones IP a los dispositivos dentro de una red."}
+{"prompt": "Pregunta: ¿Qué es el protocolo DNS?\nRespuesta:", "response": "DNS es el sistema que traduce nombres de dominio en direcciones IP comprensibles por los dispositivos de red."}
+{"prompt": "Pregunta: ¿Qué es una red LAN?\nRespuesta:", "response": "Una LAN es una red de área local que conecta dispositivos dentro de un espacio limitado como una casa, oficina o edificio."}
+{"prompt": "Pregunta: ¿Qué es una red WAN?\nRespuesta:", "response": "Una WAN es una red de área amplia que conecta múltiples redes locales a través de grandes distancias geográficas."}
+{"prompt": "Pregunta: ¿Qué es un switch?\nRespuesta:", "response": "Un switch es un dispositivo de red que conecta dispositivos dentro de una LAN y envía los datos únicamente al destinatario correcto."}
+{"prompt": "Pregunta: ¿Qué es un router?\nRespuesta:", "response": "Un router es un dispositivo que conecta diferentes redes y dirige el tráfico de datos entre ellas."}
+{"prompt": "Pregunta: ¿Qué es NAT?\nRespuesta:", "response": "NAT es un mecanismo que permite que múltiples dispositivos de una red privada compartan una única dirección IP pública."}
+{"prompt": "Pregunta: ¿Qué es el modelo OSI?\nRespuesta:", "response": "El modelo OSI es un modelo conceptual de siete capas que describe cómo se comunican los sistemas en una red."}
+{"prompt": "Pregunta: ¿Qué es TCP?\nRespuesta:", "response": "TCP es un protocolo de transporte orientado a conexión que garantiza la entrega ordenada y fiable de los datos."}
+{"prompt": "Pregunta: ¿Qué es UDP?\nRespuesta:", "response": "UDP es un protocolo de transporte no orientado a conexión que envía datos sin garantizar su entrega."}
+{"prompt": "Pregunta: ¿Qué es una VLAN?\nRespuesta:", "response": "Una VLAN es una red local virtual que segmenta una red física en varias redes lógicas independientes."}
+{"prompt": "Pregunta: ¿Qué es una puerta de enlace?\nRespuesta:", "response": "La puerta de enlace es el dispositivo que permite a una red local comunicarse con otras redes."}
+{"prompt": "Pregunta: ¿Qué es una topología en red?\nRespuesta:", "response": "La topología de red es la forma física o lógica en la que se conectan los dispositivos dentro de una red."}
+{"prompt": "Pregunta: ¿Qué es un firewall?\nRespuesta:", "response": "Un firewall es un sistema de seguridad que controla y filtra el tráfico de red entrante y saliente."}
+{"prompt": "Pregunta: ¿Qué es un punto de acceso?\nRespuesta:", "response": "Un punto de acceso es un dispositivo que permite conectar dispositivos inalámbricos a una red cableada."}
+{"prompt": "Pregunta: ¿Qué es el direccionamiento IPv4?\nRespuesta:", "response": "IPv4 es un sistema de direccionamiento que utiliza direcciones de 32 bits para identificar dispositivos en una red."}
+{"prompt": "Pregunta: ¿Qué es IPv6?\nRespuesta:", "response": "IPv6 es la versión más reciente del protocolo IP y utiliza direcciones de 128 bits."}
+{"prompt": "Pregunta: ¿Qué es una subred?\nRespuesta:", "response": "Una subred es una subdivisión lógica de una red IP que mejora la organización y el rendimiento."}
+{"prompt": "Pregunta: ¿Qué es un servidor proxy?\nRespuesta:", "response": "Un servidor proxy actúa como intermediario entre un cliente y un servidor para mejorar seguridad o rendimiento."}
+{"prompt": "Pregunta: ¿Qué es el protocolo FTP?\nRespuesta:", "response": "FTP es un protocolo utilizado para trans
+
